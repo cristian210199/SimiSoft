@@ -9,3 +9,14 @@ C:\Users\crist\OneDrive\Documentos\8vo Semestre\Programación en Ambiente C-S\Si
 C:\Users\crist\OneDrive\Documentos\8vo Semestre\Programación en Ambiente C-S\SimiSoft.MBL\obj\Debug\SimiSoft.BML.csproj.CopyComplete
 C:\Users\crist\OneDrive\Documentos\8vo Semestre\Programación en Ambiente C-S\SimiSoft.MBL\obj\Debug\SimiSoft.MBL.dll
 C:\Users\crist\OneDrive\Documentos\8vo Semestre\Programación en Ambiente C-S\SimiSoft.MBL\obj\Debug\SimiSoft.MBL.pdb
+C:\Users\crist\OneDrive\Documentos\8vo Semestre\Programación en Ambiente C-S\SimiSoft\SimiSoft.MBL\bin\Debug\SimiSoft.MBL.dll
+C:\Users\crist\OneDrive\Documentos\8vo Semestre\Programación en Ambiente C-S\SimiSoft\SimiSoft.MBL\bin\Debug\SimiSoft.MBL.pdb
+C:\Users\crist\OneDrive\Documentos\8vo Semestre\Programación en Ambiente C-S\SimiSoft\SimiSoft.MBL\bin\Debug\Dapper.dll
+C:\Users\crist\OneDrive\Documentos\8vo Semestre\Programación en Ambiente C-S\SimiSoft\SimiSoft.MBL\bin\Debug\SimiSoft.DAL.dll
+C:\Users\crist\OneDrive\Documentos\8vo Semestre\Programación en Ambiente C-S\SimiSoft\SimiSoft.MBL\bin\Debug\SimiSoft.DAL.pdb
+C:\Users\crist\OneDrive\Documentos\8vo Semestre\Programación en Ambiente C-S\SimiSoft\SimiSoft.MBL\bin\Debug\Dapper.xml
+C:\Users\crist\OneDrive\Documentos\8vo Semestre\Programación en Ambiente C-S\SimiSoft\SimiSoft.MBL\obj\Debug\SimiSoft.BML.csprojAssemblyReference.cache
+C:\Users\crist\OneDrive\Documentos\8vo Semestre\Programación en Ambiente C-S\SimiSoft\SimiSoft.MBL\obj\Debug\SimiSoft.BML.csproj.CoreCompileInputs.cache
+C:\Users\crist\OneDrive\Documentos\8vo Semestre\Programación en Ambiente C-S\SimiSoft\SimiSoft.MBL\obj\Debug\SimiSoft.BML.csproj.CopyComplete
+C:\Users\crist\OneDrive\Documentos\8vo Semestre\Programación en Ambiente C-S\SimiSoft\SimiSoft.MBL\obj\Debug\SimiSoft.MBL.dll
+C:\Users\crist\OneDrive\Documentos\8vo Semestre\Programación en Ambiente C-S\SimiSoft\SimiSoft.MBL\obj\Debug\SimiSoft.MBL.pdb

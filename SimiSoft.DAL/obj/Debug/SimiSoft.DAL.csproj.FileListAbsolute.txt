@@ -7,3 +7,11 @@ C:\Users\crist\OneDrive\Documentos\8vo Semestre\Programación en Ambiente C-S\Si
 C:\Users\crist\OneDrive\Documentos\8vo Semestre\Programación en Ambiente C-S\SimiSoft.DAL\obj\Debug\SimiSoft.DAL.csproj.CopyComplete
 C:\Users\crist\OneDrive\Documentos\8vo Semestre\Programación en Ambiente C-S\SimiSoft.DAL\obj\Debug\SimiSoft.DAL.dll
 C:\Users\crist\OneDrive\Documentos\8vo Semestre\Programación en Ambiente C-S\SimiSoft.DAL\obj\Debug\SimiSoft.DAL.pdb
+C:\Users\crist\OneDrive\Documentos\8vo Semestre\Programación en Ambiente C-S\SimiSoft\SimiSoft.DAL\bin\Debug\SimiSoft.DAL.dll
+C:\Users\crist\OneDrive\Documentos\8vo Semestre\Programación en Ambiente C-S\SimiSoft\SimiSoft.DAL\bin\Debug\SimiSoft.DAL.pdb
+C:\Users\crist\OneDrive\Documentos\8vo Semestre\Programación en Ambiente C-S\SimiSoft\SimiSoft.DAL\bin\Debug\Dapper.dll
+C:\Users\crist\OneDrive\Documentos\8vo Semestre\Programación en Ambiente C-S\SimiSoft\SimiSoft.DAL\bin\Debug\Dapper.xml
+C:\Users\crist\OneDrive\Documentos\8vo Semestre\Programación en Ambiente C-S\SimiSoft\SimiSoft.DAL\obj\Debug\SimiSoft.DAL.csproj.CoreCompileInputs.cache
+C:\Users\crist\OneDrive\Documentos\8vo Semestre\Programación en Ambiente C-S\SimiSoft\SimiSoft.DAL\obj\Debug\SimiSoft.DAL.csproj.CopyComplete
+C:\Users\crist\OneDrive\Documentos\8vo Semestre\Programación en Ambiente C-S\SimiSoft\SimiSoft.DAL\obj\Debug\SimiSoft.DAL.dll
+C:\Users\crist\OneDrive\Documentos\8vo Semestre\Programación en Ambiente C-S\SimiSoft\SimiSoft.DAL\obj\Debug\SimiSoft.DAL.pdb
